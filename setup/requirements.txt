@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+python-docx
+reportlab
+spacy
+nltk
+pandas
+matplotlib

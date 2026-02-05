@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": 1770196795,
+    "filename": "SPV-Credit-Agt.pdf",
+    "composite_score": 25.8,
+    "num_clauses": 134
+  },
+  {
+    "timestamp": 1770197074,
+    "filename": "SPV-Credit-Agt.pdf",
+    "composite_score": 25.8,
+    "num_clauses": 134
+  },
+  {
+    "timestamp": 1770197096,
+    "filename": "SPV-Credit-Agt.pdf",
+    "composite_score": 25.8,
+    "num_clauses": 134
+  },
+  {
+    "timestamp": 1770197105,
+    "filename": "SPV-Credit-Agt.pdf",
+    "composite_score": 25.8,
+    "num_clauses": 134
+  },
+  {
+    "timestamp": 1770198394,
+    "filename": "SPV-Credit-Agt.pdf",
+    "composite_score": 25.8,
+    "num_clauses": 134
+  },
+  {
+    "timestamp": 1770202208,
+    "filename": "employment_standard.txt",
+    "composite_score": 0.0,
+    "num_clauses": 0
+  },
+  {
+    "timestamp": 1770202717,
+    "filename": "Business_Loan_Agreement.pdf",
+    "composite_score": 10.0,
+    "num_clauses": 9
+  },
+  {
+    "timestamp": 1770203695,
+    "filename": "business_loan_sample.txt",
+    "composite_score": 10.0,
+    "num_clauses": 9
+  },
+  {
+    "timestamp": 1770204009,
+    "filename": "business_loan_sample.txt",
+    "composite_score": 18.9,
+    "num_clauses": 9
+  },
+  {
+    "timestamp": 1770204130,
+    "filename": "business_loan_sample.txt",
+    "composite_score": 18.9,
+    "num_clauses": 9
+  },
+  {
+    "timestamp": 1770204216,
+    "filename": "pl-loan-agreement-english-v290325.pdf",
+    "composite_score": 34.6,
+    "num_clauses": 124
+  },
+  {
+    "timestamp": 1770205297,
+    "filename": "pl-loan-agreement-english-v290325.pdf",
+    "composite_score": 34.6,
+    "num_clauses": 124
+  },
+  {
+    "timestamp": 1770206267,
+    "filename": "Business_Loan_Agreement.pdf",
+    "composite_score": 23.3,
+    "num_clauses": 9
+  },
+  {
+    "timestamp": 1770206417,
+    "filename": "pl-loan-agreement-english-v290325.pdf",
+    "composite_score": 34.6,
+    "num_clauses": 124
+  }
+]
