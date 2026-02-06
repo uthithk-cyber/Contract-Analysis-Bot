@@ -1,8 +1,9 @@
-streamlit
-pdfplumber
-python-docx
-reportlab
-spacy
+flask
+gunicorn
 nltk
-pandas
-matplotlib
+spacy
+transformers
+torch
+pdfplumber
+jinja2
+
